@@ -1,0 +1,249 @@
+{
+    "companies": [
+        {
+            "id": 1,
+            "code": 2762,
+            "type": "小売業",
+            "name": "三光マーケティングフーズ",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=2762"
+        },
+        {
+            "id": 2,
+            "code": 3048,
+            "type": "小売業",
+            "name": "ビックカメラ",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=3048"
+        },
+        {
+            "id": 3,
+            "code": 7421,
+            "type": "小売業",
+            "name": "カッパ・クリエイトHD",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=7421"
+        },
+        {
+            "id": 4,
+            "code": 7522,
+            "type": "小売業",
+            "name": "ワタミ",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=7522"
+        },
+        {
+            "id": 5,
+            "code": 8267,
+            "type": "小売業",
+            "name": "イオン",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=8267"
+        },
+        {
+            "id": 6,
+            "code": 9202,
+            "type": "空運業",
+            "name": "ＡＮＡホールディングス",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=9202"
+        },
+        {
+            "id": 7,
+            "code": 9831,
+            "type": "小売業",
+            "name": "ヤマダ電機",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=9831"
+        },
+        {
+            "id": 8,
+            "code": 9887,
+            "type": "小売業",
+            "name": "松屋フーズ",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=9887"
+        },
+        {
+            "id": 9,
+            "code": 7606,
+            "type": "小売業",
+            "name": "ユナイテッドアローズ",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=7606"
+        },
+        {
+            "id": 10,
+            "code": 3398,
+            "type": "小売業",
+            "name": "クスリのアオキ",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=3398"
+        },
+        {
+            "id": 11,
+            "code": 3088,
+            "type": "小売業",
+            "name": "マツモトキヨシホールディングス",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=3088"
+        },
+        {
+            "id": 12,
+            "code": 4755,
+            "type": "サービス業",
+            "name": "楽天",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=4755"
+        },
+        {
+            "id": 13,
+            "code": 9020,
+            "type": "陸運業",
+            "name": "東日本旅客鉄道",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=9020"
+        },
+        {
+            "id": 14,
+            "code": 9021,
+            "type": "陸運業",
+            "name": "西日本旅客鉄道",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=9021"
+        },
+        {
+            "id": 15,
+            "code": 9201,
+            "type": "空運業",
+            "name": "日本航空",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=9201"
+        },
+        {
+            "id": 16,
+            "code": 2378,
+            "type": "サービス業",
+            "name": "ルネサンス",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=2378"
+        },
+        {
+            "id": 17,
+            "code": 2432,
+            "type": "サービス業",
+            "name": "ディー・エヌ・エー",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=2432"
+        },
+        {
+            "id": 18,
+            "code": 4901,
+            "type": "化学",
+            "name": "富士フイルムホールディングス",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=4901"
+        },
+        {
+            "id": 19,
+            "code": 4924,
+            "type": "化学",
+            "name": "ドクターシーラボ",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=4924"
+        },
+        {
+            "id": 20,
+            "code": 6645,
+            "type": "電気機器",
+            "name": "オムロン",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=6645"
+        },
+        {
+            "id": 21,
+            "code": 7962,
+            "type": "その他製品",
+            "name": "キングジム",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=7962"
+        },
+        {
+            "id": 22,
+            "code": 8198,
+            "type": "小売業",
+            "name": "マックスバリュ東海",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=8198"
+        },
+        {
+            "id": 23,
+            "code": 9989,
+            "type": "小売業",
+            "name": "サンドラッグ",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=9989"
+        },
+        {
+            "id": 24,
+            "code": 3591,
+            "type": "繊維製品",
+            "name": "ワコールホールディングス",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=3591"
+        },
+        {
+            "id": 25,
+            "code": 9449,
+            "type": "情報・通信",
+            "name": "ＧＭＯインターネット",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=9449"
+        },
+        {
+            "id": 26,
+            "code": 2404,
+            "type": "サービス業",
+            "name": "鉄人化計画",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=2404"
+        },
+        {
+            "id": 27,
+            "code": 4661,
+            "type": "サービス業",
+            "name": "オリエンタルランド",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=4661"
+        },
+        {
+            "id": 28,
+            "code": 4680,
+            "type": "サービス業",
+            "name": "ラウンドワン",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=4680"
+        },
+        {
+            "id": 29,
+            "code": 4839,
+            "type": "情報・通信",
+            "name": "ＷＯＷＯＷ",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=4839"
+        },
+        {
+            "id": 30,
+            "code": 7832,
+            "type": "その他製品",
+            "name": "バンダイナムコホールディングス",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=7832"
+        },
+        {
+            "id": 31,
+            "code": 9603,
+            "type": "サービス業",
+            "name": "エイチ・アイ・エス",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=9603"
+        },
+        {
+            "id": 32,
+            "code": 2702,
+            "type": "小売業",
+            "name": "日本マクドナルドホールディングス",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=2702"
+        },
+        {
+            "id": 33,
+            "code": 2590,
+            "type": "食料品",
+            "name": "ダイドードリンコ",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=2590"
+        },
+        {
+            "id": 34,
+            "code": 2269,
+            "type": "食料品",
+            "name": "明治ホールディングス",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=2269"
+        },
+        {
+            "id": 35,
+            "code": 7550,
+            "type": "小売業",
+            "name": "ゼンショーホールディングス",
+            "url": "http://info.finance.yahoo.co.jp/stockholder/detail/?code=7550"
+        }
+    ]
+}

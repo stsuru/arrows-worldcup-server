@@ -1,0 +1,28 @@
+{
+    "complimentary": [
+        {
+            "id": 1,
+            "code": 2762,
+            "type": "小売業",
+            "type_detail": "飲食",
+            "name": "三光マーケティングフーズ",
+            "detail": "3,000円（1,000円券3枚）の株主ご優待券または精米1kg",
+            "valueOfYear": 6000,
+            "times": 2,
+            "get_month": "12,6",
+            "company_url": "http://www.sankofoods.com/ir/yutai.html"
+        },
+        {
+            "id": 2,
+            "code": 3048,
+            "type": "小売業",
+            "type_detail": "家電",
+            "name": "ビックカメラ",
+            "detail": "店舗でご利用いただける「株主様お買物優待券」",
+            "valueOfYear": 3000,
+            "times": 2,
+            "get_month": "2,8",
+            "company_url": "http://www.biccamera.co.jp/ir/service/"
+        }
+    ]
+}
