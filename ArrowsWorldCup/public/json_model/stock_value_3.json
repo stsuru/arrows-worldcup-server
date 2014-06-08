@@ -1,0 +1,29 @@
+{
+    "code": 7201,
+    "name": "日産自動車",
+    "share_unit_number" : 100,
+    "dividend_of_year" : 30,
+    "yield" : 1.25,
+    "stock_value": [
+        {
+            "date": "2013/01/01",
+            "value": 10
+        },
+        {
+            "date": "2013/02/01",
+            "value": 20
+        },
+        {
+            "date": "2013/03/01",
+            "value": 50
+        },
+        {
+            "date": "2013/04/01",
+            "value": 60
+        },
+        {
+            "date": "2013/05/01",
+            "value": 80
+        }
+    ]
+}
